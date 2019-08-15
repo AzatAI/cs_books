@@ -7,7 +7,8 @@
 # End of https://www.gitignore.io/api/vscode
 # Created by https://www.gitignore.io/api/visualstudiocode
 # Edit at https://www.gitignore.io/?templates=visualstudiocode
-
+*.azt
+token.azt
 ### VisualStudioCode ###
 .vscode
 .vscode/*
