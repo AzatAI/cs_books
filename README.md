@@ -44,3 +44,4 @@
 43. ObjectiveCNotesForProfessionals.pdf
 44. CNotesForProfessionals.pdf
 45. SwiftNotesForProfessionals.pdf
+46. Practical Machine Learning with Python (en).pdf
