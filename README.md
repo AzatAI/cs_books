@@ -11,3 +11,4 @@
 10. Tensorflow World Resources (en).pdf
 11. BashNotesForProfessionals.pdf
 12. HTML5NotesForProfessionals.pdf
+13. Deep Learning with Python (en).pdf
