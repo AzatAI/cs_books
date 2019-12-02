@@ -4,3 +4,4 @@
 3. The Quick Python Book (en).pdf
 4. LinuxNotesForProfessionals.pdf
 5. Чистый Python (en).pdf
+6. iOSNotesForProfessionals.pdf
