@@ -47,3 +47,4 @@
 46. Practical Machine Learning with Python (en).pdf
 47. Python Data Science Handbook (en).pdf
 48. Computer Simulation (en).pdf
+49. Prealgebra via Python Programming (en).pdf
