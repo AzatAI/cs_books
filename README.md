@@ -24,3 +24,4 @@
 23. CSSNotesForProfessionals.pdf
 24. Основы на примере Python (ru).pdf
 25. Django for Beginners (en).pdf
+26. Impractical Python Project (en).pdf
