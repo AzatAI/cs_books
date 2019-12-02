@@ -29,3 +29,4 @@
 28. PythonNotesForProfessionals.pdf
 29. Beginning Programming with Python For Dummies (en).pdf
 30. Python for Scientists (en).pdf
+31. SQLNotesForProfessionals.pdf
