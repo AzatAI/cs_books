@@ -10,3 +10,4 @@
 9. MongoDBNotesForProfessionals.pdf
 10. Tensorflow World Resources (en).pdf
 11. BashNotesForProfessionals.pdf
+12. HTML5NotesForProfessionals.pdf
