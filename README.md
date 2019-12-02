@@ -9,3 +9,4 @@
 8. Python code for Artificial Intelligence (en).pdf
 9. MongoDBNotesForProfessionals.pdf
 10. Tensorflow World Resources (en).pdf
+11. BashNotesForProfessionals.pdf
