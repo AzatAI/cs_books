@@ -31,3 +31,4 @@
 30. Python for Scientists (en).pdf
 31. SQLNotesForProfessionals.pdf
 32. Reinforcement Learning (en).pdf
+33. Supporting Python 3 (en).pdf
