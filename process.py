@@ -20,6 +20,9 @@ for each in all_files_directories:
         full_command = '''echo "{}">>README.md'''.format(command)
         os.system(full_command)
         count = count + 1
+        os.system('git add .')
+        os.system(f"git commit -m 'added/updated {each}'")
+        os.system('git push origin master')
 
 messages = [
     '\n\n\n'
