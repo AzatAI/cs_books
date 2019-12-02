@@ -32,3 +32,4 @@
 31. SQLNotesForProfessionals.pdf
 32. Reinforcement Learning (en).pdf
 33. Supporting Python 3 (en).pdf
+34. AlgorithmsNotesForProfessionals.pdf
