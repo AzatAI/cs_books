@@ -5,3 +5,4 @@
 4. LinuxNotesForProfessionals.pdf
 5. Чистый Python (en).pdf
 6. iOSNotesForProfessionals.pdf
+7. Python Tricks (en).pdf
