@@ -19,3 +19,4 @@
 18. Artificial Intelligence A Modern Approach.pdf
 19. Head First HTML and CSS - 2nd Ed.pdf
 20. CSharpNotesForProfessionals.pdf
+21. LaTeXNotesForProfessionals.pdf
