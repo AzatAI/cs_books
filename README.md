@@ -27,3 +27,4 @@
 26. Impractical Python Project (en).pdf
 27. Functional Programming For Dummies (en).pdf
 28. PythonNotesForProfessionals.pdf
+29. Beginning Programming with Python For Dummies (en).pdf
