@@ -40,3 +40,4 @@
 39. NodeJSNotesForProfessionals.pdf
 40. ReactNativeNotesForProfessionals.pdf
 41. Bottle Documentation (en).pdf
+42. HTML5CanvasNotesForProfessionals.pdf
