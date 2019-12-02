@@ -3,3 +3,4 @@
 2. Biopython Tutorial and Cookbook (en).pdf
 3. The Quick Python Book (en).pdf
 4. LinuxNotesForProfessionals.pdf
+5. Чистый Python (en).pdf
