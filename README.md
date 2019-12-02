@@ -17,3 +17,4 @@
 16. PerlNotesForProfessionals.pdf
 17. PHPNotesForProfessionals.pdf
 18. Artificial Intelligence A Modern Approach.pdf
+19. Head First HTML and CSS - 2nd Ed.pdf
