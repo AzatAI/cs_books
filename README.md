@@ -22,3 +22,4 @@
 21. LaTeXNotesForProfessionals.pdf
 22. Python Notes for Professionals (en).pdf
 23. CSSNotesForProfessionals.pdf
+24. Основы на примере Python (ru).pdf
