@@ -12,3 +12,4 @@
 11. BashNotesForProfessionals.pdf
 12. HTML5NotesForProfessionals.pdf
 13. Deep Learning with Python (en).pdf
+14. jQueryNotesForProfessionals.pdf
