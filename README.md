@@ -26,3 +26,4 @@
 25. Django for Beginners (en).pdf
 26. Impractical Python Project (en).pdf
 27. Functional Programming For Dummies (en).pdf
+28. PythonNotesForProfessionals.pdf
