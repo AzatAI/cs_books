@@ -45,3 +45,4 @@
 44. CNotesForProfessionals.pdf
 45. SwiftNotesForProfessionals.pdf
 46. Practical Machine Learning with Python (en).pdf
+47. Python Data Science Handbook (en).pdf
