@@ -33,5 +33,5 @@ os.system("echo '\n\n #### Last updated in:{}'>>README.md\n\n\n".format(datetime
         
 
 
-markdown = "### How to contribute?\nFork the repository and star it, clone OR download the reposiitory, put your books inside, run the python script process.py, the script will automatically do the rest. Finally, Do not forget to pull request.\n### 如何贡献?\nFork这个仓库,记得同时点个Star,将仓库下载克隆或者下载到本地,将您的图书放到该目录,运行 prosecc.py 脚本,其余的就交给脚本自动处理吧! 对了,不要忘记 Full Request 哈!"
+markdown = "### How to contribute?\nFork the repository and star it, clone OR download the reposiitory, put your books inside, run the python script process.py, the script will automatically do the rest. Finally, Do not forget to pull request.\n"
 os.system('''echo "{}">>README.md'''.format(markdown))
