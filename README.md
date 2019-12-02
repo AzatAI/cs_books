@@ -20,3 +20,4 @@
 19. Head First HTML and CSS - 2nd Ed.pdf
 20. CSharpNotesForProfessionals.pdf
 21. LaTeXNotesForProfessionals.pdf
+22. Python Notes for Professionals (en).pdf
