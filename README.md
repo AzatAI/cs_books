@@ -36,3 +36,4 @@
 35. Python для сложных задач (ru).pdf
 36. JavaNotesForProfessionals.pdf
 37. MySQLNotesForProfessionals.pdf
+38. GitNotesForProfessionals.pdf
