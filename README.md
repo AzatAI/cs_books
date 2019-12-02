@@ -3,20 +3,20 @@
 2. Biopython Tutorial and Cookbook (en).pdf
 3. The Quick Python Book (en).pdf
 4. LinuxNotesForProfessionals.pdf
-5. TypeScriptNotesForProfessionals.pdf
-6. Чистый Python (en).pdf
-7. iOSNotesForProfessionals.pdf
-8. Python Tricks (en).pdf
-9. Python code for Artificial Intelligence (en).pdf
-10. MongoDBNotesForProfessionals.pdf
-11. Tensorflow World Resources (en).pdf
-12. BashNotesForProfessionals.pdf
-13. HTML5NotesForProfessionals.pdf
-14. Deep Learning with Python (en).pdf
-15. jQueryNotesForProfessionals.pdf
-16. The Pyramid Web Framework (en).pdf
-17. PerlNotesForProfessionals.pdf
-18. PHPNotesForProfessionals.pdf
+5. Чистый Python (en).pdf
+6. iOSNotesForProfessionals.pdf
+7. Python Tricks (en).pdf
+8. Python code for Artificial Intelligence (en).pdf
+9. MongoDBNotesForProfessionals.pdf
+10. Tensorflow World Resources (en).pdf
+11. BashNotesForProfessionals.pdf
+12. HTML5NotesForProfessionals.pdf
+13. Deep Learning with Python (en).pdf
+14. jQueryNotesForProfessionals.pdf
+15. The Pyramid Web Framework (en).pdf
+16. PerlNotesForProfessionals.pdf
+17. PHPNotesForProfessionals.pdf
+18. Head First HTML and CSS - 2nd Ed.pdf
 19. CSharpNotesForProfessionals.pdf
 20. LaTeXNotesForProfessionals.pdf
 21. Python Notes for Professionals (en).pdf
@@ -58,8 +58,7 @@ THE BOOKS ARE COLLECTED FROM THE INTERNET AND ONLY USED FOR EDUCATIONAL PURPOSE
 The mark down file itself is created by process.py python script
 
 
- #### Last updated in:2019-08-15 16:13:44.850867
+ #### Last updated in:2019-12-02 21:10:29.030230
 ### How to contribute?
 Fork the repository and star it, clone OR download the reposiitory, put your books inside, run the python script process.py, the script will automatically do the rest. Finally, Do not forget to pull request.
-### 如何贡献?
-Fork这个仓库,记得同时点个Star,将仓库下载克隆或者下载到本地,将您的图书放到该目录,运行 prosecc.py 脚本,其余的就交给脚本自动处理吧! 对了,不要忘记 Full Request 哈!
+
