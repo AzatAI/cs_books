@@ -16,3 +16,4 @@
 15. The Pyramid Web Framework (en).pdf
 16. PerlNotesForProfessionals.pdf
 17. PHPNotesForProfessionals.pdf
+18. Artificial Intelligence A Modern Approach.pdf
