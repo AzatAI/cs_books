@@ -35,3 +35,4 @@
 34. AlgorithmsNotesForProfessionals.pdf
 35. Python для сложных задач (ru).pdf
 36. JavaNotesForProfessionals.pdf
+37. MySQLNotesForProfessionals.pdf
