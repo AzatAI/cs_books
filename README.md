@@ -7,3 +7,4 @@
 6. iOSNotesForProfessionals.pdf
 7. Python Tricks (en).pdf
 8. Python code for Artificial Intelligence (en).pdf
+9. MongoDBNotesForProfessionals.pdf
