@@ -24,49 +24,51 @@
 23. Artificial Intelligence A Modern Approach.pdf
 24. requests-latest.pdf
 25. Masimov_K._Sleduyushiyi_Vlastelin_Mi.pdf
-26. Head First HTML and CSS - 2nd Ed.pdf
-27. CSharpNotesForProfessionals.pdf
-28. LaTeXNotesForProfessionals.pdf
-29. beautiful-soup-4-latest.pdf
-30. Python Notes for Professionals (en).pdf
-31. CSSNotesForProfessionals.pdf
-32. Основы на примере Python (ru).pdf
-33. Django for Beginners (en).pdf
-34. What Do We Understand About.pdf
-35. 02-01-default-SkienaTheAlgorithmDesignManual.pdf
-36. 00-sicp.pdf
-37. Impractical Python Project (en).pdf
-38. Functional Programming For Dummies (en).pdf
-39. 02-01-cn-default-《算法设计手册》第2版+中文版330页.pdf
-40. PythonNotesForProfessionals.pdf
-41. Beginning Programming with Python For Dummies (en).pdf
-42. 02-02-2014-Polya-How-to-solve-it.pdf
-43. Python for Scientists (en).pdf
-44. SQLNotesForProfessionals.pdf
-45. Reinforcement Learning (en).pdf
-46. Supporting Python 3 (en).pdf
-47. AlgorithmsNotesForProfessionals.pdf
-48. Python для сложных задач (ru).pdf
-49. JavaNotesForProfessionals.pdf
-50. MySQLNotesForProfessionals.pdf
-51. GitNotesForProfessionals.pdf
-52. NodeJSNotesForProfessionals.pdf
-53. ReactNativeNotesForProfessionals.pdf
-54. Bottle Documentation (en).pdf
-55. HTML5CanvasNotesForProfessionals.pdf
-56. ObjectiveCNotesForProfessionals.pdf
-57. CNotesForProfessionals.pdf
-58. SwiftNotesForProfessionals.pdf
-59. 01-01-cn-default计算机系统要素：从零开始构建现代计算机.pdf
-60. Practical Machine Learning with Python (en).pdf
-61. 00-cn-计算机程序的构造和解释（SICP中文第2版）.pdf
-62. 02-02-2014-cn-怎样解题数学思维的新方法.pdf
-63. Python Data Science Handbook (en).pdf
-64. Computer Simulation (en).pdf
-65. Prealgebra via Python Programming (en).pdf
-66. CPlusPlusNotesForProfessionals.pdf
-67. MATLABNotesForProfessionals.pdf
-68. JavaScriptNotesForProfessionals.pdf
+26. Introducing Regular Expressions_ Unraveling Regular Expressions, Step-by-Step [Fitzgerald 2012-08-03].pdf
+27. Head First HTML and CSS - 2nd Ed.pdf
+28. CSharpNotesForProfessionals.pdf
+29. LaTeXNotesForProfessionals.pdf
+30. beautiful-soup-4-latest.pdf
+31. Python Notes for Professionals (en).pdf
+32. CSSNotesForProfessionals.pdf
+33. Основы на примере Python (ru).pdf
+34. Django for Beginners (en).pdf
+35. What Do We Understand About.pdf
+36. 02-01-default-SkienaTheAlgorithmDesignManual.pdf
+37. 00-sicp.pdf
+38. Impractical Python Project (en).pdf
+39. Functional Programming For Dummies (en).pdf
+40. 02-01-cn-default-《算法设计手册》第2版+中文版330页.pdf
+41. PythonNotesForProfessionals.pdf
+42. Beginning Programming with Python For Dummies (en).pdf
+43. 02-02-2014-Polya-How-to-solve-it.pdf
+44. Python for Scientists (en).pdf
+45. SQLNotesForProfessionals.pdf
+46. Reinforcement Learning (en).pdf
+47. Supporting Python 3 (en).pdf
+48. AlgorithmsNotesForProfessionals.pdf
+49. Python для сложных задач (ru).pdf
+50. JavaNotesForProfessionals.pdf
+51. MySQLNotesForProfessionals.pdf
+52. GitNotesForProfessionals.pdf
+53. NodeJSNotesForProfessionals.pdf
+54. ReactNativeNotesForProfessionals.pdf
+55. Bottle Documentation (en).pdf
+56. HTML5CanvasNotesForProfessionals.pdf
+57. ObjectiveCNotesForProfessionals.pdf
+58. CNotesForProfessionals.pdf
+59. SwiftNotesForProfessionals.pdf
+60. 01-01-cn-default计算机系统要素：从零开始构建现代计算机.pdf
+61. Practical Machine Learning with Python (en).pdf
+62. 00-cn-计算机程序的构造和解释（SICP中文第2版）.pdf
+63. 02-02-2014-cn-怎样解题数学思维的新方法.pdf
+64. Python Data Science Handbook (en).pdf
+65. Computer Simulation (en).pdf
+66. Mastering Regular Expressions (Friedl-2006).pdf
+67. Prealgebra via Python Programming (en).pdf
+68. CPlusPlusNotesForProfessionals.pdf
+69. MATLABNotesForProfessionals.pdf
+70. JavaScriptNotesForProfessionals.pdf
 
 
 
@@ -75,7 +77,7 @@ THE BOOKS ARE COLLECTED FROM THE INTERNET AND ONLY USED FOR EDUCATIONAL PURPOSE
 The mark down file itself is created by process.py python script
 
 
- #### Last updated in:2019-12-11 15:15:51.505573
+ #### Last updated in:2019-12-11 20:57:34.163126
 ### How to contribute?
 Fork the repository and star it, clone OR download the reposiitory, put your books inside, run the python script process.py, the script will automatically do the rest. Finally, Do not forget to pull request.
 
