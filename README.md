@@ -69,6 +69,7 @@
 68. CPlusPlusNotesForProfessionals.pdf
 69. MATLABNotesForProfessionals.pdf
 70. JavaScriptNotesForProfessionals.pdf
+71. 图解HTTP+彩色版.pdf
 
 
 
@@ -77,7 +78,7 @@ THE BOOKS ARE COLLECTED FROM THE INTERNET AND ONLY USED FOR EDUCATIONAL PURPOSE
 The mark down file itself is created by process.py python script
 
 
- #### Last updated in:2019-12-11 20:57:34.163126
+ #### Last updated in:2019-12-12 10:00:43.088084
 ### How to contribute?
 Fork the repository and star it, clone OR download the reposiitory, put your books inside, run the python script process.py, the script will automatically do the rest. Finally, Do not forget to pull request.
 
