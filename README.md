@@ -59,17 +59,18 @@
 58. CNotesForProfessionals.pdf
 59. SwiftNotesForProfessionals.pdf
 60. 01-01-cn-default计算机系统要素：从零开始构建现代计算机.pdf
-61. Practical Machine Learning with Python (en).pdf
-62. 00-cn-计算机程序的构造和解释（SICP中文第2版）.pdf
-63. 02-02-2014-cn-怎样解题数学思维的新方法.pdf
-64. Python Data Science Handbook (en).pdf
-65. Computer Simulation (en).pdf
-66. Mastering Regular Expressions (Friedl-2006).pdf
-67. Prealgebra via Python Programming (en).pdf
-68. CPlusPlusNotesForProfessionals.pdf
-69. MATLABNotesForProfessionals.pdf
-70. JavaScriptNotesForProfessionals.pdf
-71. 图解HTTP+彩色版.pdf
+61. re — Regular expression operations — Python 3.8.1rc1 documentation.pdf
+62. Practical Machine Learning with Python (en).pdf
+63. 00-cn-计算机程序的构造和解释（SICP中文第2版）.pdf
+64. 02-02-2014-cn-怎样解题数学思维的新方法.pdf
+65. Python Data Science Handbook (en).pdf
+66. Computer Simulation (en).pdf
+67. Mastering Regular Expressions (Friedl-2006).pdf
+68. Prealgebra via Python Programming (en).pdf
+69. CPlusPlusNotesForProfessionals.pdf
+70. MATLABNotesForProfessionals.pdf
+71. JavaScriptNotesForProfessionals.pdf
+72. 图解HTTP+彩色版.pdf
 
 
 
@@ -78,7 +79,7 @@ THE BOOKS ARE COLLECTED FROM THE INTERNET AND ONLY USED FOR EDUCATIONAL PURPOSE
 The mark down file itself is created by process.py python script
 
 
- #### Last updated in:2019-12-12 10:00:43.088084
+ #### Last updated in:2019-12-12 20:28:56.862598
 ### How to contribute?
 Fork the repository and star it, clone OR download the reposiitory, put your books inside, run the python script process.py, the script will automatically do the rest. Finally, Do not forget to pull request.
 
