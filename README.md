@@ -214,7 +214,7 @@
 
 THE BOOKS ARE COLLECTED FROM THE INTERNET AND ONLY USED FOR EDUCATIONAL PURPOSE
 
-The mark down file itself is created by process.py python script
+The markdown file itself is created by process.py python script
 
 
  #### Last updated in:2020-06-23 16:28:44.135827
