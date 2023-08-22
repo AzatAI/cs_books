@@ -25,7 +25,7 @@ for each in all_files_directories:
 messages = [
     '\n\n\n'
     'THE BOOKS ARE COLLECTED FROM THE INTERNET AND SHOULD ONLY BE USED FOR EDUCATIONAL PURPOSES\n',
-    'The markdown file itself is created by the process.py python script'
+    'The README.md is automatically updated using GitHub Actions with the update_readme.py script. Please refrain from manually editing the README, as your changes will be overwritten.'
 ]
 
 for message in messages:
