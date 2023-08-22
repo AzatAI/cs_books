@@ -214,9 +214,6 @@
 THE BOOKS ARE COLLECTED FROM THE INTERNET AND SHOULD ONLY BE USED FOR EDUCATIONAL PURPOSES
 
 The markdown file itself is created by the process.py python script
-
-
- #### Last updated in:2023-08-22 07:37:05.567411
 ### How to contribute?
 Fork the repository and star it, clone OR download the repository, put your books inside. Finally, Do not forget to pull request.
 
