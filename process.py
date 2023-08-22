@@ -32,7 +32,6 @@ for message in messages:
     myCommand = "echo '{}' >>README.md".format(message)
     os.system(myCommand)
 
-os.system("echo '\n\n #### Last updated in:{}'>>README.md\n\n\n".format(datetime.now()))
 
 markdown = "### How to contribute?\nFork the repository and star it, clone OR download the repository, put your books inside. Finally, Do not forget to pull request.\n"
 os.system('''echo "{}">>README.md'''.format(markdown))
