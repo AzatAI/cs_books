@@ -14,34 +14,43 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
+    - name: Check for changes in the repository
+      id: repo_changes
+      run: |
+        git diff --exit-code || echo "::set-output name=changed::true"
+      continue-on-error: true
+
     - name: Set up Python
+      if: steps.repo_changes.outputs.changed == 'true'
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
 
     - name: Install dependencies
+      if: steps.repo_changes.outputs.changed == 'true'
       run: |
         python -m pip install --upgrade pip
         # Add any other dependencies if required
 
-    - name: Run process.py
-      run: python process.py
+    - name: Run update_readme.py
+      if: steps.repo_changes.outputs.changed == 'true'
+      run: python update_readme.py
 
     - name: Check for changes in README.md
-      id: check_changes
+      id: readme_changes
       run: |
-        git diff --exit-code README.md || echo "README.md has changes" && echo "::set-output name=changed::true"
+        git diff --exit-code README.md || echo "::set-output name=changed::true"
       continue-on-error: true
 
     - name: Commit changes
-      if: steps.check_changes.outputs.changed == 'true'
+      if: steps.readme_changes.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -am "Update README.md"
 
     - name: Create Pull Request
-      if: steps.check_changes.outputs.changed == 'true'
+      if: steps.readme_changes.outputs.changed == 'true'
       uses: peter-evans/create-pull-request@v3
       with:
         title: "Update README.md"
