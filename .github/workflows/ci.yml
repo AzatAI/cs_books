@@ -1,0 +1,32 @@
+name: CI for cs_books
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # Add any other dependencies if required
+
+    - name: Run process.py
+      run: python process.py
+
+    - name: Check for changes in README.md
+      run: |
+        git diff --exit-code README.md
