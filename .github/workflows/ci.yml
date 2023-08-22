@@ -28,5 +28,22 @@ jobs:
       run: python process.py
 
     - name: Check for changes in README.md
+      id: check_changes
       run: |
-        git diff --exit-code README.md
+        git diff --exit-code README.md || echo "README.md has changes" && echo "::set-output name=changed::true"
+      continue-on-error: true
+
+    - name: Commit changes
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -am "Update README.md"
+
+    - name: Create Pull Request
+      if: steps.check_changes.outputs.changed == 'true'
+      uses: peter-evans/create-pull-request@v3
+      with:
+        title: "Update README.md"
+        body: "Automated update of README.md"
+        branch: "automated/readme-update"
