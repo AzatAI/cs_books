@@ -72,7 +72,7 @@
 71. CSharpNotesForProfessionals.pdf
 72. 杨振宁：20世纪一位伟大的物理学家.pdf
 73. Python code for Artificial Intelligence (en).pdf
-74. 西方名着入门 第八卷 数学.pdf
+74.  西方名著入门 第八卷 数学.pdf 
 75. Stephen Wolfram-A New Kind of Science-Wolfram Media (2002).pdf
 76. PHPNotesForProfessionals.pdf
 77. JavaScriptNotesForProfessionals.pdf
