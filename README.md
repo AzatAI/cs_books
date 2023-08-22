@@ -6,7 +6,7 @@
 5. Math Adventures with Python (en).Pdf
 6. Thomas M. Cover, Joy A. Thomas-Elements of Information Theory 2nd Edition (Wiley Series in Telecommunications and Signal Processing)-Wiley-Interscience (2006).pdf
 7. Stephen Wolfram-A New Kind of Science-Wolfram Media (2002).pdf
-8. 西方名着入门 第八卷 数学.pdf
+8. 西方名著入门 第八卷 数学.pdf
 9. 杨振宁：20世纪一位伟大的物理学家.pdf
 10. An Axiomatic Basis for programming.pdf
 11. The Quick Python Book (en).pdf
